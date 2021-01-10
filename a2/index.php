@@ -14,7 +14,7 @@
   <body>
 
     <header>
-      <div>Put company logo and name here</div>
+      <div>Test Function</div>
     </header>
 
     <nav>
