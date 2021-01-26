@@ -3,7 +3,8 @@ html {
     padding-left: 30px;
 }
 
-body, html{
+body,
+html {
     height: 100%;
 }
 
@@ -15,7 +16,7 @@ parallax {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-   /* Image Reference:
+    /* Image Reference:
     originalme2, O., n.d. Lest We Forget Anzac Background Vector. [image] Available at: <https://www.vecteezy.com/vector-art/108416-lest-we-forget-anzac-background-vector> [Accessed 26 January 2021].*/
 }
 
@@ -24,41 +25,41 @@ parallax {
 header {
     width: 100%;
     height: 200px;
-    
-    
+
+
 }
 
 nav {
     width: 10%;
     height: 100%;
-   min-height: 100vh;
+    min-height: 100vh;
     float: left;
     padding-right: 10px;
-    
+
 }
 
 main {
     padding-left: 10%;
     margin-bottom: 100px;
     width: 80%;
-    height: 110vh: 
+    height: 110vh:
 }
 
 
 
 footer {
     flex-wrap: wrap;
-    position:fixed;
-    bottom:0;
+    position: fixed;
+    bottom: 0;
     width: 100%;
     height: 100px;
-   bottom:0;
+    bottom: 0;
     font-weight: bold;
-   
-    
+
+
 }
 
-.foot { 
+.foot {
     padding-top: 50px;
     text-align: center;
     color: black;
@@ -67,43 +68,43 @@ footer {
 }
 
 .navi {
-     height: 100%;
+    height: 100%;
     font-weight: bold;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: auto;
-  background-color: #FADE95;
-  border: 1px solid #555;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    background-color: #FADE95;
+    border: 1px solid #555;
 }
 
 li a {
-  display: block;
-  color: #000;
-  padding: 8px 8px;
-  text-decoration: none;
+    display: block;
+    color: #000;
+    padding: 8px 8px;
+    text-decoration: none;
 }
 
 li {
-  text-align: center;
-  border-bottom: 1px solid black;
+    text-align: center;
+    border-bottom: 1px solid black;
 }
 
 li:last-child {
-  border-bottom: none;
+    border-bottom: none;
 }
 
 li a.active {
-  background-color: #caa74b;
-  color: black;
+    background-color: #caa74b;
+    color: black;
 }
 
 li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+    background-color: #555;
+    color: white;
 }
 
 .info {
@@ -120,25 +121,26 @@ li a:hover:not(.active) {
     font-size: xx-large;
     font-weight: bold;
 }
+
 .no-place {
     color: red;
 }
 
 .page-title: {
-display: flex;
+    display: flex;
 }
 
 
 .left {
-  width: 75%;
-  height:inherit;
-  float: left;
+    width: 75%;
+    height: inherit;
+    float: left;
     font-size: 50px;
 }
 
 .right {
-    
-margin-top: 10px;
+
+    margin-top: 10px;
 
 }
 
@@ -161,7 +163,7 @@ margin-top: 10px;
     border-radius: 4px;
     margin: 0 auto;
     position: relative;
-    
+
 }
 
 input {
@@ -172,43 +174,45 @@ input {
     border-style: solid;
     text-align: center;
 }
+
 .message {
     width: 50%;
     height: 100px;
     display: block;
     margin: 0 auto;
     text-align: center;
-} 
+}
 
 
-.button { 
-    
-  background-color: #FADE95;
-  border: solid;
-  color: black;
-  font-weight: bold;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+.button {
+
+    background-color: #FADE95;
+    border: solid;
+    color: black;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
 .button1 {
     padding-left: 225px;
 }
-p.contact-title { 
-text-align: center;
- font-family: serif;
-font-size: x-large; 
+
+p.contact-title {
+    text-align: center;
+    font-family: serif;
+    font-size: x-large;
     font-weight: bold;
 }
 
-.closebutton { 
+.closebutton {
     position: absolute;
-padding-bottom: 100px;
+    padding-bottom: 100px;
 }
 
 .contButton {
@@ -218,27 +222,28 @@ padding-bottom: 100px;
 }
 
 h1 {
-   font-family:Times;
+    font-family: Times;
 }
 
 h2 {
-    font-family:Arial;
+    font-family: Arial;
 }
+
 h3 {
-    font-family:Arial;
+    font-family: Arial;
     color: black;
 }
 
 h5 {
-    font-family:Arial;
+    font-family: Arial;
 }
 
 p {
     font-weight: bold;
-font-family:Courier; 
+    font-family: Courier;
 }
 
 .Baker {
     float: left;
-   display: inline-flex; 
+    display: inline-flex;
 }
