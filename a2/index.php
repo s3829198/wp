@@ -4,18 +4,21 @@
 <head>
     <meta charset="utf-8">
     <meta name="description" content="A remodeled version of Douglas Ramsey Bakers war tales.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style2.css">
     <title>ANZAC Douglas Raymond Baker</title>
     
+    
+    
+    </head>
     <style> 
 body {
   background-image:url(../../media/background.jpg); 
-    object-fit: fill;
-}
+    
+}  
 </style>
-    
-    </head>
-    
+        <div class='parralax'></div>
+    <!-- all coding for parallax scrolling is present yet it does not appear so I can leave it in to show an attempt. -->
     <header>
         <script src='A2Script.js'></script>
         <div class="left">
@@ -62,6 +65,7 @@ body {
         </nav>
     
     <main>
+       
         <div class="info">
             <h1 class="cont-title" >Home</h1>
             <h3>Hello and welcome,</h3>
@@ -70,6 +74,7 @@ body {
             <br>
             <h5><i>(Photograph courtesy of : John Oxley Library, State Library of Queensland [Image number: 702692-19141024-s0023-0027])</i></h5>
             </div>
+        
         </main>
         
     <footer>
@@ -77,6 +82,6 @@ body {
             <h3> © Ian Baker - ibak6837@bigpond.net.au || Joshua Lishman 2021 https://github.com/s3829198/wp.git </h3>
         </div>
         </footer> 
-
+        
 </html>
  <!-- Wallpaper Flare, n.d. Parchment Background Image. [image] Available at: <https://www.wallpaperflare.com/abstract-ancient-antique-art-background-canvas-close-up-wallpaper-prqcu> [Accessed 17 January 2021]. -->

@@ -2,6 +2,24 @@ html {
     margin: 0;
     padding-left: 30px;
 }
+body, html {
+    height: 100%;
+}
+
+
+div.parallax {
+    position: absolute;
+    background-image: url(../../media/parallax.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   /* Image Reference:
+    originalme2, O., n.d. Lest We Forget Anzac Background Vector. [image] Available at: <https://www.vecteezy.com/vector-art/108416-lest-we-forget-anzac-background-vector> [Accessed 26 January 2021].*
+}
+
+
 
 header {
     width: 100%;
