@@ -17,7 +17,8 @@ body {
     
 }  
 </style>
-        <div class='parralax'></div>
+    <body>
+       <div class='parallax'></div>
     <!-- all coding for parallax scrolling is present yet it does not appear so I can leave it in to show an attempt. -->
     <header>
         <script src='A2Script.js'></script>
@@ -82,6 +83,6 @@ body {
             <h3> © Ian Baker - ibak6837@bigpond.net.au || Joshua Lishman 2021 https://github.com/s3829198/wp.git </h3>
         </div>
         </footer> 
-        
+    </body>
 </html>
  <!-- Wallpaper Flare, n.d. Parchment Background Image. [image] Available at: <https://www.wallpaperflare.com/abstract-ancient-antique-art-background-canvas-close-up-wallpaper-prqcu> [Accessed 17 January 2021]. -->
